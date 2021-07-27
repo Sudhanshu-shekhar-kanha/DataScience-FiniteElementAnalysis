@@ -1,0 +1,4 @@
+DataSets used is "Flicker8k_Dataset".
+It can be downloaded from Kaggle.com
+
+Link: https://www.kaggle.com/ming666/flicker8k-dataset
